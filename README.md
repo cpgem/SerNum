@@ -1,2 +1,2 @@
 # SerNum
-Test 
+Cours de Test sur les séries numériques
